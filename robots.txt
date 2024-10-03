@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bverylec.github.io/sitemap.html.gz
+Sitemap: https://bverylec.github.io/app/sitemap.html.gz
+Sitemap: https://bverylec.github.io/assets/sitemap.html.gz
+Sitemap: https://bverylec.github.io/css/sitemap.html.gz
+Sitemap: https://bverylec.github.io/data/sitemap.html.gz
+Sitemap: https://bverylec.github.io/includes/sitemap.html.gz
+Sitemap: https://bverylec.github.io/item/sitemap.html.gz
+Sitemap: https://bverylec.github.io/src/sitemap.html.gz
